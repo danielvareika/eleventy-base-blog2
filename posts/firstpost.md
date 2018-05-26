@@ -1,5 +1,5 @@
 ---
-title: This is my first post.
+title: Este es mi primer post.
 tags:
   - post
   - another-tag
